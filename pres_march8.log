@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  8 MAR 2017 14:40
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  8 MAR 2017 14:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1074,7 +1074,7 @@ Missing character: There is no ™ in font cmss10!
 ] [40
 
 ]
-<image/Figure2.png, id=368, 560.8453pt x 219.82124pt>
+<image/Figure2.png, id=371, 560.8453pt x 219.82124pt>
 File: image/Figure2.png Graphic file (type png)
  <use image/Figure2.png>
 Package pdftex.def Info: image/Figure2.png used on input line 715.
@@ -1099,7 +1099,7 @@ Missing character: There is no ™ in font cmss10!
  [42
 
 ]
-<image/Figure3.png, id=379, 326.72063pt x 216.05719pt>
+<image/Figure3.png, id=382, 326.72063pt x 216.05719pt>
 File: image/Figure3.png Graphic file (type png)
  <use image/Figure3.png>
 Package pdftex.def Info: image/Figure3.png used on input line 738.
@@ -1116,7 +1116,7 @@ Missing character: There is no ™ in font cmss10!
 ] [45
 
 ]
-<image/grantsattain.png, id=404, 1297.84875pt x 537.50812pt>
+<image/grantsattain.png, id=407, 1297.84875pt x 537.50812pt>
 File: image/grantsattain.png Graphic file (type png)
 
 <use image/grantsattain.png>
@@ -1125,7 +1125,7 @@ Package pdftex.def Info: image/grantsattain.png used on input line 772.
  [46
 
  <./image/grantsattain.png>]
-<image/grantsskill.png, id=411, 1297.84875pt x 537.50812pt>
+<image/grantsskill.png, id=414, 1297.84875pt x 537.50812pt>
 File: image/grantsskill.png Graphic file (type png)
 
 <use image/grantsskill.png>
@@ -1134,7 +1134,7 @@ Package pdftex.def Info: image/grantsskill.png used on input line 776.
  [47
 
  <./image/grantsskill.png>]
-<image/grantswealth.png, id=418, 1297.84875pt x 537.50812pt>
+<image/grantswealth.png, id=421, 1297.84875pt x 537.50812pt>
 File: image/grantswealth.png Graphic file (type png)
 
 <use image/grantswealth.png>
@@ -1143,7 +1143,7 @@ Package pdftex.def Info: image/grantswealth.png used on input line 780.
  [48
 
  <./image/grantswealth.png>]
-<image/removegrants.png, id=425, 519.44063pt x 130.23656pt>
+<image/removegrants.png, id=429, 519.44063pt x 130.23656pt>
 File: image/removegrants.png Graphic file (type png)
 
 <use image/removegrants.png>
@@ -1152,7 +1152,7 @@ Package pdftex.def Info: image/removegrants.png used on input line 790.
  [49
 
  <./image/removegrants.png>]
-<image/loansattain.png, id=433, 1297.84875pt x 537.50812pt>
+<image/loansattain.png, id=436, 1297.84875pt x 537.50812pt>
 File: image/loansattain.png Graphic file (type png)
 
 <use image/loansattain.png>
@@ -1161,7 +1161,7 @@ Package pdftex.def Info: image/loansattain.png used on input line 808.
  [50
 
  <./image/loansattain.png>]
-<image/loansskills.png, id=440, 1297.84875pt x 537.50812pt>
+<image/loansskills.png, id=443, 1297.84875pt x 537.50812pt>
 File: image/loansskills.png Graphic file (type png)
 
 <use image/loansskills.png>
@@ -1170,7 +1170,7 @@ Package pdftex.def Info: image/loansskills.png used on input line 812.
  [51
 
  <./image/loansskills.png>]
-<image/loanswealth.png, id=447, 1297.84875pt x 537.50812pt>
+<image/loanswealth.png, id=450, 1297.84875pt x 537.50812pt>
 File: image/loanswealth.png Graphic file (type png)
 
 <use image/loanswealth.png>
@@ -1199,7 +1199,7 @@ Overfull \hbox (4.19504pt too wide) in paragraph at lines 855--855
 
 ] [55
 
-] <image/unconstrained.png, id=472, 448.67625pt x 218.31563pt>
+] <image/unconstrained.png, id=475, 448.67625pt x 218.31563pt>
 File: image/unconstrained.png Graphic file (type png)
 
 <use image/unconstrained.png>
@@ -1253,7 +1253,7 @@ Missing character: There is no ™ in font cmss10!
 ] [69
 
 ]
-<image/leeseshadri1.PNG, id=564, 646.66594pt x 289.83281pt>
+<image/leeseshadri1.PNG, id=567, 646.66594pt x 289.83281pt>
 File: image/leeseshadri1.PNG Graphic file (type png)
 
 <use image/leeseshadri1.PNG>
@@ -1289,7 +1289,7 @@ Missing character: There is no ™ in font cmss10!
 ] [77
 
 ]
-<image/Image1.png, id=625, 657.2053pt x 459.21562pt>
+<image/Image1.png, id=628, 657.2053pt x 459.21562pt>
 File: image/Image1.png Graphic file (type png)
  <use image/Image1.png>
 Package pdftex.def Info: image/Image1.png used on input line 1199.
@@ -1298,7 +1298,7 @@ Package pdftex.def Info: image/Image1.png used on input line 1199.
 [78
 
  <./image/Image1.png>]
-<image/Image2.png, id=633, 507.39563pt x 254.45062pt>
+<image/Image2.png, id=636, 507.39563pt x 254.45062pt>
 File: image/Image2.png Graphic file (type png)
  <use image/Image2.png>
 Package pdftex.def Info: image/Image2.png used on input line 1206.
@@ -1306,7 +1306,7 @@ Package pdftex.def Info: image/Image2.png used on input line 1206.
 
 [79
 
- <./image/Image2.png>] <image/Image3.png, id=642, 643.6547pt x 380.92313pt>
+ <./image/Image2.png>] <image/Image3.png, id=645, 643.6547pt x 380.92313pt>
 File: image/Image3.png Graphic file (type png)
 
 <use image/Image3.png>
@@ -1388,7 +1388,7 @@ has been already used, duplicate ignored
 l.1410 \end{frame}
                    [87
 
-] <image/Figure1_1.png, id=699, 409.53pt x 265.74281pt>
+] <image/Figure1_1.png, id=703, 409.53pt x 265.74281pt>
 File: image/Figure1_1.png Graphic file (type png)
 
 <use image/Figure1_1.png>
@@ -1401,7 +1401,7 @@ Overfull \vbox (2.66948pt too high) detected at line 1421
 [88
 
  <./image/Figure1_1.png>]
-<image/Figure1.png, id=707, 405.01312pt x 216.05719pt>
+<image/Figure1.png, id=711, 405.01312pt x 216.05719pt>
 File: image/Figure1.png Graphic file (type png)
  <use image/Figure1.png>
 Package pdftex.def Info: image/Figure1.png used on input line 1431.
@@ -1412,7 +1412,7 @@ Package pdftex.def Info: image/Figure1.png used on input line 1431.
  <./image/Figure1.png>] [90
 
 ]
-<image/leeseshadri3.PNG, id=722, 730.22812pt x 271.0125pt>
+<image/leeseshadri3.PNG, id=726, 730.22812pt x 271.0125pt>
 File: image/leeseshadri3.PNG Graphic file (type png)
 
 <use image/leeseshadri3.PNG>
@@ -1452,10 +1452,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1532.
  ) 
 Here is how much of TeX's memory you used:
- 16773 strings out of 493315
- 310858 string characters out of 6137904
- 392810 words of memory out of 5000000
- 19565 multiletter control sequences out of 15000+600000
+ 16799 strings out of 493315
+ 311481 string characters out of 6137904
+ 394290 words of memory out of 5000000
+ 19587 multiletter control sequences out of 15000+600000
  17556 words of font info for 64 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  49i,15n,53p,1145b,587s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1482,10 +1482,10 @@ exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
 live/2013/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local
 /texlive/2013/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/lo
 cal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on pres_march8.pdf (91 pages, 1024216 bytes).
+Output written on pres_march8.pdf (91 pages, 1024442 bytes).
 PDF statistics:
- 850 PDF objects out of 1000 (max. 8388607)
- 697 compressed objects within 7 object streams
- 233 named destinations out of 1000 (max. 500000)
+ 856 PDF objects out of 1000 (max. 8388607)
+ 702 compressed objects within 8 object streams
+ 237 named destinations out of 1000 (max. 500000)
  205 words of extra memory for PDF output out of 10000 (max. 10000000)
 
