@@ -341,7 +341,7 @@ Preview of Results
 \end{itemize}      
 \end{frame} 
 
-\begin{frame}{Education: High School Continuation Decision (2)}
+\begin{frame}{Value of Entering Labor Force}
 \begin{itemize}
   \item Individual who enters labor force at age $j$ with education $e$ solves:
   		$$V^e_{gj}(a_j,\boldsymbol{\theta},z_j) = \underset{c_j,\ell_j,a_{j+1}}{\mathrm{max}}u_g(c_j,			\ell_j)+\beta\mathbb{E}_z\big[V^e_{g,j+1}(a_{j+1},\boldsymbol{\theta},z_{j+1})\big]$$
@@ -353,7 +353,7 @@ Preview of Results
 \end{itemize}      
 \end{frame} 
 
-\begin{frame}{Education: High School Continuation Decision (3)}
+\begin{frame}{Value of Completing High School}
 \begin{itemize}
   \item The value of completing high school is defined by:
  		$$V_{g0}(\hat{\textbf{a}},\boldsymbol{\theta},q,\kappa_{\epsilon}) = \underset{c_0,a_1}					{\mathrm{max}}\;u_g(c_0,1-\bar{t})+\beta{V}^{*}_{g1}(a_1,\hat{a}^{CL},\boldsymbol{\theta},q,			\kappa_{\epsilon})$$
@@ -408,8 +408,8 @@ Preview of Results
   \item Each student faces the following budget constraint:
   		\begin{equation*}
   		\begin{aligned}
-        (1+\tau_c)c_j+a_{j+1}+\textbf{1}_{\left\{q=1,2\right\}}b_{j+1}-(1-\tau_w)w^{g,HS}						\varepsilon^{g,HS}_j(\boldsymbol{\theta},0) \\				
-        \times (1-\bar{t}-\ell_j) + \phi(q,\boldsymbol{\theta}) = A_j
+        (1+\tau_c)c_j+a_{j+1}+\textbf{1}_{\left\{q=1,2\right\}}b_{j+1} + \phi(q,\boldsymbol{\theta})	\\				
+        = A_j + (1-\tau_w)w^{g,HS}				\varepsilon^{g,HS}_j(\boldsymbol{\theta},0) (1-\bar{t}-\ell_j)
         \end{aligned}
         \end{equation*}
         where $A_j$ takes on the following values:
@@ -658,7 +658,7 @@ Source & Comments \\\hline
 &\tiny{Costs are 3.2\% of discounted lifetime utility for HS and 4.1\% for college students.}  \\\hline
 
 \tiny{Eisenhauer, Heckman, Mosso (2014)} &\tiny{ HS Finishing -2.38, Late College Graduation 1.13. (units of \$100,000)}  \\\hline
-\tiny{Cunha, Heckmant, Navarro (2005)} &\tiny{Average around 5 (units of \$100,000). Density from -10 to 20}  \\\hline
+\tiny{Cunha, Heckmant, Navarro (2005)} &\tiny{Density from -10 to 20 (units of \$100,000).}  \\\hline
 
 \end{tabular}
 \end{center}
