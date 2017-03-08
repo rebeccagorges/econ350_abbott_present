@@ -1,6 +1,6 @@
-\beamer@endinputifotherversion {3.26pt}
+\beamer@endinputifotherversion {3.36pt}
 \select@language {english}
-\beamer@sectionintoc {1}{Introduction and Literature Review}{3}{0}{1}
+\beamer@sectionintoc {1}{Intro and Literature Review}{3}{0}{1}
 \beamer@sectionintoc {2}{Model}{14}{0}{2}
 \beamer@sectionintoc {3}{Estimation Results}{30}{0}{3}
 \beamer@sectionintoc {4}{Assessing the Model’s Behavior}{39}{0}{4}
@@ -8,4 +8,4 @@
 \beamer@sectionintoc {6}{Discussion and Other Recent Work}{61}{0}{6}
 \beamer@subsectionintoc {6}{1}{Lee and Seshadri (2016)}{66}{0}{6}
 \beamer@subsectionintoc {6}{2}{Caucutt et al. (2015)}{72}{0}{6}
-\beamer@sectionintoc {7}{References}{77}{0}{7}
+\beamer@sectionintoc {7}{References}{76}{0}{7}
