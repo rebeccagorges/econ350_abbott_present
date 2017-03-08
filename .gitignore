@@ -1,3 +1,6 @@
 *.aux
 pres_march8.log
 *.pdf
+*.log
+*.pdf
+*.gz
