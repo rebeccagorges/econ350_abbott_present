@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.29)  8 MAR 2017 13:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.29)  8 MAR 2017 14:35
 entering extended mode
 **pres_march8.tex
 (pres_march8.tex
@@ -1019,7 +1019,7 @@ Missing character: There is no ™ in font cmss10!
 <image/Timeline.png, id=166, 722.7pt x 406.51875pt>
 File: image/Timeline.png Graphic file (type png)
  <use image/Timeline.png>
-Package pdftex.def Info: image/Timeline.png used on input line 287.
+Package pdftex.def Info: image/Timeline.png used on input line 289.
 (pdftex.def)             Requested size: 307.28987pt x 172.85191pt.
 
 [15
@@ -1035,7 +1035,7 @@ Package pdftex.def Info: image/Timeline.png used on input line 287.
 ] [20
 
 ]
-Overfull \hbox (23.40544pt too wide) detected at line 352
+Overfull \hbox (23.40544pt too wide) detected at line 354
 \OT1/cmss/m/n/10.95 (1 + \OML/cmm/m/it/10.95 []\OT1/cmss/m/n/10.95 )\OT1/mathk
 erncmss/m/sl/10.95 c[] \OT1/cmss/m/n/10.95 + \OT1/mathkerncmss/m/sl/10.95 a[] \
 OT1/cmss/m/n/10.95 = (1 \OMS/cmsy/m/n/10.95   \OML/cmm/m/it/10.95 []\OT1/cmss/
@@ -1052,7 +1052,7 @@ n/10.95 )]\OT1/mathkerncmss/m/sl/10.95 a[]\OML/cmm/m/it/10.95 ;
 ] [22
 
 ]
-Overfull \hbox (11.023pt too wide) detected at line 378
+Overfull \hbox (11.023pt too wide) detected at line 380
 [] []
  []
 
@@ -1061,7 +1061,7 @@ Overfull \hbox (11.023pt too wide) detected at line 378
 ] [24
 
 ]
-Overfull \hbox (22.10236pt too wide) in paragraph at lines 431--431
+Overfull \hbox (22.10236pt too wide) in paragraph at lines 433--433
  [] 
  []
 
@@ -1093,16 +1093,16 @@ Missing character: There is no ™ in font cmss10!
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.634 \end{frame}
+l.636 \end{frame}
                   [35
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{tab:title}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.666 \end{frame}
+l.668 \end{frame}
                  
-Overfull \hbox (33.34734pt too wide) in paragraph at lines 666--666
+Overfull \hbox (33.34734pt too wide) in paragraph at lines 668--668
  [] 
  []
 
@@ -1124,10 +1124,10 @@ Missing character: There is no ™ in font cmss10!
 <image/Figure2.png, id=366, 560.8453pt x 219.82124pt>
 File: image/Figure2.png Graphic file (type png)
  <use image/Figure2.png>
-Package pdftex.def Info: image/Figure2.png used on input line 715.
+Package pdftex.def Info: image/Figure2.png used on input line 717.
 (pdftex.def)             Requested size: 327.20668pt x 128.24438pt.
 
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 715--715
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 717--717
  [] 
  []
 
@@ -1149,7 +1149,7 @@ Missing character: There is no ™ in font cmss10!
 <image/Figure3.png, id=377, 326.72063pt x 216.05719pt>
 File: image/Figure3.png Graphic file (type png)
  <use image/Figure3.png>
-Package pdftex.def Info: image/Figure3.png used on input line 738.
+Package pdftex.def Info: image/Figure3.png used on input line 740.
 (pdftex.def)             Requested size: 284.52756pt x 188.15283pt.
 
 [43
@@ -1167,7 +1167,7 @@ Missing character: There is no ™ in font cmss10!
 File: image/grantsattain.png Graphic file (type png)
 
 <use image/grantsattain.png>
-Package pdftex.def Info: image/grantsattain.png used on input line 772.
+Package pdftex.def Info: image/grantsattain.png used on input line 774.
 (pdftex.def)             Requested size: 307.28987pt x 127.25761pt.
  [46
 
@@ -1176,7 +1176,7 @@ Package pdftex.def Info: image/grantsattain.png used on input line 772.
 File: image/grantsskill.png Graphic file (type png)
 
 <use image/grantsskill.png>
-Package pdftex.def Info: image/grantsskill.png used on input line 776.
+Package pdftex.def Info: image/grantsskill.png used on input line 778.
 (pdftex.def)             Requested size: 307.28987pt x 127.25761pt.
  [47
 
@@ -1185,7 +1185,7 @@ Package pdftex.def Info: image/grantsskill.png used on input line 776.
 File: image/grantswealth.png Graphic file (type png)
 
 <use image/grantswealth.png>
-Package pdftex.def Info: image/grantswealth.png used on input line 780.
+Package pdftex.def Info: image/grantswealth.png used on input line 782.
 (pdftex.def)             Requested size: 307.28987pt x 127.25761pt.
  [48
 
@@ -1194,7 +1194,7 @@ Package pdftex.def Info: image/grantswealth.png used on input line 780.
 File: image/removegrants.png Graphic file (type png)
 
 <use image/removegrants.png>
-Package pdftex.def Info: image/removegrants.png used on input line 790.
+Package pdftex.def Info: image/removegrants.png used on input line 792.
 (pdftex.def)             Requested size: 307.28987pt x 77.04358pt.
  [49
 
@@ -1203,7 +1203,7 @@ Package pdftex.def Info: image/removegrants.png used on input line 790.
 File: image/loansattain.png Graphic file (type png)
 
 <use image/loansattain.png>
-Package pdftex.def Info: image/loansattain.png used on input line 808.
+Package pdftex.def Info: image/loansattain.png used on input line 810.
 (pdftex.def)             Requested size: 307.28987pt x 127.25761pt.
  [50
 
@@ -1212,7 +1212,7 @@ Package pdftex.def Info: image/loansattain.png used on input line 808.
 File: image/loansskills.png Graphic file (type png)
 
 <use image/loansskills.png>
-Package pdftex.def Info: image/loansskills.png used on input line 812.
+Package pdftex.def Info: image/loansskills.png used on input line 814.
 (pdftex.def)             Requested size: 307.28987pt x 127.25761pt.
  [51
 
@@ -1221,12 +1221,12 @@ Package pdftex.def Info: image/loansskills.png used on input line 812.
 File: image/loanswealth.png Graphic file (type png)
 
 <use image/loanswealth.png>
-Package pdftex.def Info: image/loanswealth.png used on input line 816.
+Package pdftex.def Info: image/loanswealth.png used on input line 818.
 (pdftex.def)             Requested size: 307.28987pt x 127.25761pt.
  [52
 
  <./image/loanswealth.png>]
-Overfull \hbox (24.75601pt too wide) in paragraph at lines 831--831
+Overfull \hbox (24.75601pt too wide) in paragraph at lines 833--833
  [] 
  []
 
@@ -1236,9 +1236,9 @@ Overfull \hbox (24.75601pt too wide) in paragraph at lines 831--831
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.855 \end{frame}
+l.857 \end{frame}
                  
-Overfull \hbox (4.19504pt too wide) in paragraph at lines 855--855
+Overfull \hbox (4.19504pt too wide) in paragraph at lines 857--857
  [] 
  []
 
@@ -1250,14 +1250,14 @@ Overfull \hbox (4.19504pt too wide) in paragraph at lines 855--855
 File: image/unconstrained.png Graphic file (type png)
 
 <use image/unconstrained.png>
-Package pdftex.def Info: image/unconstrained.png used on input line 872.
+Package pdftex.def Info: image/unconstrained.png used on input line 874.
 (pdftex.def)             Requested size: 307.28987pt x 149.5253pt.
  [56
 
  <./image/unconstrained.png>] [57
 
 ]
-Overfull \hbox (10.53685pt too wide) in paragraph at lines 901--901
+Overfull \hbox (10.53685pt too wide) in paragraph at lines 903--903
  [] 
  []
 
@@ -1267,7 +1267,7 @@ Overfull \hbox (10.53685pt too wide) in paragraph at lines 901--901
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.931 \end{frame}
+l.933 \end{frame}
                   [59
 
 ] [60
@@ -1304,10 +1304,10 @@ Missing character: There is no ™ in font cmss10!
 File: image/leeseshadri1.PNG Graphic file (type png)
 
 <use image/leeseshadri1.PNG>
-Package pdftex.def Info: image/leeseshadri1.PNG used on input line 1057.
+Package pdftex.def Info: image/leeseshadri1.PNG used on input line 1060.
 (pdftex.def)             Requested size: 307.28987pt x 137.72508pt.
 
-Overfull \vbox (34.93231pt too high) detected at line 1057
+Overfull \vbox (34.93231pt too high) detected at line 1060
  []
 
 [70
@@ -1339,7 +1339,7 @@ Missing character: There is no ™ in font cmss10!
 <image/Image1.png, id=621, 657.2053pt x 459.21562pt>
 File: image/Image1.png Graphic file (type png)
  <use image/Image1.png>
-Package pdftex.def Info: image/Image1.png used on input line 1199.
+Package pdftex.def Info: image/Image1.png used on input line 1202.
 (pdftex.def)             Requested size: 284.52756pt x 198.81122pt.
 
 [78
@@ -1348,7 +1348,7 @@ Package pdftex.def Info: image/Image1.png used on input line 1199.
 <image/Image2.png, id=629, 507.39563pt x 254.45062pt>
 File: image/Image2.png Graphic file (type png)
  <use image/Image2.png>
-Package pdftex.def Info: image/Image2.png used on input line 1206.
+Package pdftex.def Info: image/Image2.png used on input line 1209.
 (pdftex.def)             Requested size: 284.52756pt x 142.68938pt.
 
 [79
@@ -1357,7 +1357,7 @@ Package pdftex.def Info: image/Image2.png used on input line 1206.
 File: image/Image3.png Graphic file (type png)
 
 <use image/Image3.png>
-Package pdftex.def Info: image/Image3.png used on input line 1213.
+Package pdftex.def Info: image/Image3.png used on input line 1216.
 (pdftex.def)             Requested size: 284.52756pt x 168.39136pt.
  [80
 
@@ -1367,7 +1367,7 @@ Package pdftex.def Info: image/Image3.png used on input line 1213.
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1271 \end{frame}
+l.1274 \end{frame}
                   
 Missing character: There is no â in font cmss8!
 Missing character: There is no € in font cmss8!
@@ -1379,7 +1379,7 @@ Missing character: There is no â in font cmss10!
 Missing character: There is no € in font cmss10!
 Missing character: There is no ™ in font cmss10!
 
-Overfull \vbox (153.86002pt too high) detected at line 1271
+Overfull \vbox (153.86002pt too high) detected at line 1274
  []
 
 [82
@@ -1390,14 +1390,14 @@ Overfull \vbox (153.86002pt too high) detected at line 1271
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1310 \end{frame}
+l.1313 \end{frame}
                    [84
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{tab:title}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1347 \end{frame}
+l.1350 \end{frame}
                   
 Missing character: There is no â in font cmss8!
 Missing character: There is no € in font cmss8!
@@ -1412,7 +1412,7 @@ Missing character: There is no â in font cmss8!
 Missing character: There is no € in font cmss8!
 Missing character: There is no ™ in font cmss8!
 
-Overfull \vbox (35.87375pt too high) detected at line 1347
+Overfull \vbox (35.87375pt too high) detected at line 1350
  []
 
 [85
@@ -1421,9 +1421,9 @@ Overfull \vbox (35.87375pt too high) detected at line 1347
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1376 \end{frame}
+l.1379 \end{frame}
                   
-Overfull \vbox (19.1024pt too high) detected at line 1376
+Overfull \vbox (19.1024pt too high) detected at line 1379
  []
 
 [86
@@ -1432,17 +1432,17 @@ Overfull \vbox (19.1024pt too high) detected at line 1376
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1410 \end{frame}
+l.1413 \end{frame}
                    [87
 
 ] <image/Figure1_1.png, id=694, 409.53pt x 265.74281pt>
 File: image/Figure1_1.png Graphic file (type png)
 
 <use image/Figure1_1.png>
-Package pdftex.def Info: image/Figure1_1.png used on input line 1421.
+Package pdftex.def Info: image/Figure1_1.png used on input line 1424.
 (pdftex.def)             Requested size: 284.52756pt x 184.64003pt.
 
-Overfull \vbox (2.66948pt too high) detected at line 1421
+Overfull \vbox (2.66948pt too high) detected at line 1424
  []
 
 [88
@@ -1451,7 +1451,7 @@ Overfull \vbox (2.66948pt too high) detected at line 1421
 <image/Figure1.png, id=702, 405.01312pt x 216.05719pt>
 File: image/Figure1.png Graphic file (type png)
  <use image/Figure1.png>
-Package pdftex.def Info: image/Figure1.png used on input line 1431.
+Package pdftex.def Info: image/Figure1.png used on input line 1434.
 (pdftex.def)             Requested size: 284.52756pt x 151.78624pt.
 
 [89
@@ -1463,7 +1463,7 @@ Package pdftex.def Info: image/Figure1.png used on input line 1431.
 File: image/leeseshadri3.PNG Graphic file (type png)
 
 <use image/leeseshadri3.PNG>
-Package pdftex.def Info: image/leeseshadri3.PNG used on input line 1451.
+Package pdftex.def Info: image/leeseshadri3.PNG used on input line 1454.
 (pdftex.def)             Requested size: 284.52756pt x 105.59518pt.
  [91
 
@@ -1471,11 +1471,11 @@ Package pdftex.def Info: image/leeseshadri3.PNG used on input line 1451.
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1532.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1532.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1535.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1535.
  (pres_march8.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1532.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1532.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1535.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1535.
 
 Package rerunfilecheck Info: File `pres_march8.out' has not changed.
 (rerunfilecheck)             Checksum: E1254C237627D451E59FD8DF438BE688;544.
@@ -1487,13 +1487,13 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1532.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1535.
  ) 
 Here is how much of TeX's memory you used:
- 17768 strings out of 493673
- 339314 string characters out of 3141524
- 415048 words of memory out of 3000000
- 20439 multiletter control sequences out of 15000+200000
+ 17766 strings out of 493673
+ 339296 string characters out of 3141524
+ 414992 words of memory out of 3000000
+ 20437 multiletter control sequences out of 15000+200000
  20695 words of font info for 69 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  56i,15n,55p,1146b,594s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1520,7 +1520,7 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2
 .9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files (x86)/MiKTe
 X 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb><C:/Program Files (x86)/MiK
 TeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on pres_march8.pdf (91 pages, 1115079 bytes).
+Output written on pres_march8.pdf (91 pages, 1115008 bytes).
 PDF statistics:
  844 PDF objects out of 1000 (max. 8388607)
  233 named destinations out of 1000 (max. 500000)
